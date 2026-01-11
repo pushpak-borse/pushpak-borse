@@ -20,7 +20,7 @@
 &nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/><br/>
+<br/>
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 &nbsp;
@@ -32,7 +32,7 @@
 &nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<br/><br/>
+<br/>
 
 ![GenAI](https://img.shields.io/badge/GenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 &nbsp;
@@ -46,7 +46,7 @@
 &nbsp;
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-<br/><br/>
+<br/>
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 &nbsp;
