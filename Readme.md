@@ -1,5 +1,7 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpak7124/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpak7124/) 
+&nbsp;
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushpakborse7124@gmail.com)
 
 ---
@@ -73,23 +75,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pushpak-borse&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-
-</div>
-
----
-
-## 🔝 Top Contributed Repo
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=pushpak-borse&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -99,7 +85,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
